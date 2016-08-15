@@ -1,4 +1,4 @@
-# TDD Kit - JavaScript [![Travis status]](https://travis-ci.org/arpinum/tdd-kit-javascript)
+# TDD Kit - JavaScript
 
 ## Initialization
 
